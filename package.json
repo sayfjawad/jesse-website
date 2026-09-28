@@ -4,7 +4,6 @@
   "private": true,
   "description": "Workshop website for jesse — served on :3000, live at https://jesse.sdai.nl",
   "scripts": {
-    "dev": "node server.js",
     "start": "node server.js"
   }
 }
